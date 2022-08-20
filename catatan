@@ -1,0 +1,127 @@
+<section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="title text-center">Daftar Lomba </h3>
+          <div class="titleHR"><span></span></div>
+        </div>
+      </div>
+
+  
+      <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown"> DAFTAR LOMBA
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+          <li>MTQ</li>
+          <li>DAI MUDA</li>
+          <li>KALIGRAFI</li>
+          <li>CREATIVE DAKWAH</li>
+          <li>MUSLIM MUSLIMAH OF THE YEAR</li>
+
+        </ul>
+      </div>
+         
+         
+         
+         <div class="row">
+            <div class="col-sm-4"> <!-- Service-item -->
+              <div class="text-center services-item">
+                <div class="col-wrapper">
+                  <div class="icon-border"> 
+                    <i class="icon-design-graphic-tablet-streamline-tablet color-l-orange"></i> 
+                  </div>
+                  <h5>MTQ</h5>
+                  <!-- <p>BATAS Waktu :</p> -->
+                  <!-- <p>Tempat 			: Dilaksanakan secara daring melalui Instagram </p> -->
+                  <p>Peserta 			: Pelajar SMA/Sederajat se-JABODETABEK</p>
+                  <p>Cp : 082297699677 (Sindi) </p> 
+                  <p>  💰: Free</p>
+              <div class="linkpendaftaran"> <a href="https://bit.ly/PendaftaranLombaMTQTIF2021" target="_blank" rel="nofollow"  class="btn btn-primary">Link Pendaftaran  </a> </div>
+                  <a href="https://drive.google.com/file/d/1ZUVR7NXfCK5-jU1Yj1sp9Za7V6Zzqu9J/view?usp=drivesdk" target="_blank" rel="nofollow"  class="btn btn-primary">Syarat Dan Ketentuan  </a>
+
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-4"> <!-- Service-item -->
+              <div class="text-center services-item">
+                <div class="col-wrapper">
+                  <div class="icon-border"> 
+                    <i class="icon-design-pencil-rule-streamline color-l-blue"></i> 
+                  </div>
+                  <h5>DAI MUDA</h5>
+                  <!-- <p>batas waktu: </p> -->
+                  <!-- <p>tempat: Dilaksanakan secara daring melalui Instagram</p> -->
+                  <p>peserta: Pelajar SMA/Sederajat se-JABODETABEK</p>   
+                  <p>Cp : 081282736404 (Aprilisa)</p>
+                  <p>💰: Free</p>             
+                  <div class="linkpendaftaran">   <a href="https://bit.ly/PendaftaranLombaDaiMudaTIF2021" target="_blank" rel="nofollow"  class="btn btn-primary">Link Pendaftaran  </a> </div>
+                  <a href="https://drive.google.com/file/d/1VVhUE1zXKlJZtjNizo_TCCHXmLgYtMZN/view?usp=sharing" target="_blank" rel="nofollow"  class="btn btn-primary">Syarat Dan Ketentuan  </a>
+
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-4"> <!-- Service-item -->
+              <div class="text-center services-item">
+                <div class="col-wrapper">
+                  <div class="icon-border"> 
+                    <i class="icon-speech-streamline-talk-user color-l-yellow"></i> 
+                  </div>
+                  <h5>KALIGRAFI</h5>
+                  <!-- <p>batas waktu:</p> -->
+                  <!-- <p>tempat: Dilaksanakan secara daring melalui Instagram  </p> -->
+                  <p>peserta: Pelajar SMA/Sederajat se-JABODETABEK</p>                
+                  <p>Cp : 081211739760 (Kanaya) </p>
+                  <p>💰: Free </p>
+                  <div class="linkpendaftaran">   <a href="https://bit.ly/PendaftaranLombaKaligrafiTIF2021" target="_blank" rel="nofollow"  class="btn btn-primary">Link Pendaftaran  </a> </div>
+                  <a href="https://drive.google.com/file/d/1EuJZBUutIuDozVQsWyX2s2wgU9gMdxr2/view?usp=sharing" target="_blank" rel="nofollow"  class="btn btn-primary">Syarat Dan Ketentuan  </a>
+
+
+                </div>
+              </div>
+            </div>
+          </div> <!--/.row -->
+
+          <div class="row">
+            <div class="col-sm-4"> <!-- Service-item -->
+              <div class="text-center services-item">
+                <div class="col-wrapper">
+                  <div class="icon-border"> 
+                    <i class="icon-settings-streamline-2 color-l-purple"></i> 
+                  </div>
+                  <h5>CREATIVE DAKWAH</h5>
+                  <!-- <p>batas waktu:</p> -->
+                  <!-- <p>tempat: Dilaksanakan secara daring melalui Instagram</p> -->
+                  <p>peserta: Pelajar SMA/Sederajat se-JABODETABEK</p>      
+                  <p>Cp : 089619365066 (Farisa) </p>
+                  <p>💰 : Free </p>  
+                  <div class="linkpendaftaran">   <a href="https://bit.ly/PendaftaranLombaCreativeDakwahTIF2021" target="_blank" rel="nofollow"  class="btn btn-primary">Link Pendaftaran  </a> </div>
+                  <a href="https://drive.google.com/file/d/1zux8ZHKn49S7yshfCry2aqu3LgIaybMu/view?usp=sharing" target="_blank" rel="nofollow"  class="btn btn-primary">Syarat Dan Ketentuan  </a>
+
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-4"> <!-- Service-item -->
+              <div class="text-center services-item">
+                <div class="col-wrapper">
+                  <div class="icon-border"> 
+                    <i class="icon-streamline-umbrella-weather color-l-pink"></i> 
+                  </div>
+                  <h5>MUSLIM MUSLIMAH OF THE YEAR</h5>
+                  <!-- <p>batas waktu:</p> -->
+                  <!-- <p>tempat: Dilaksanakan secara daring melalui Quizizz </p> -->
+                  <p>peserta: Pelajar SMA Negeri 3 Kabupaten Tangerang</p>      
+                  <p>Cp : 088901780511 (Ardha) </p>
+                  <p>💰 : Free</p>        
+                    <div class="linkpendaftaran">   <a href="https://bit.ly/PendaftaranLombaMMOTYTIF2021" target="_blank" rel="nofollow"  class="btn btn-primary">Link Pendaftaran  </a> </div>
+                  <a href="https://drive.google.com/file/d/1nXKYR6OvwALAs3G0lfF-bcc5eb0rgfuV/view?usp=sharing" target="_blank" rel="nofollow"  class="btn btn-primary">Syarat Dan Ketentuan  </a>
+
+
+                </div>
+              </div>
+            </div>
